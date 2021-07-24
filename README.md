@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # webapp
 
 各言語の参考実装が用意されています。
@@ -34,4 +33,3 @@ make api-server/{lang}
 =======
 # isucon10-config
 isucon10の予習問題のconfig管理
->>>>>>> origin/main
