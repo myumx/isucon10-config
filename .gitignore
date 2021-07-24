@@ -1,0 +1,10 @@
+public/*
+fixture/*
+!fixture/.gitkeep
+/deno
+/go
+/perl
+/python
+/rust
+/php
+/ruby
